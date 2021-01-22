@@ -3,50 +3,7 @@
 <head>
 	<meta charset="utf-8"/>
 	<title>Lumen Keyes</title>
-	<style type="text/css">
-		body {
-			padding: 0;
-			margin: 0;
-			background-color: #FFFBD5;
-			/*background-color: #AEAEAE;*/
-			/*background-color: #FFD430;*/
-			font-family: Arial;
-		}
-		.header {
-			/*background-color: #E8F069;*/
-			background-color: #FFD430;
-			padding: 10px;
-			text-align: center;
-			/*box-shadow: 0px 50px rgba(0, 0, 0, 0.5);*/
-		}
-		a {
-			text-decoration: none;
-			color: black;
-		}
-		.centreBody {
-			margin-left: 25%;
-			margin-right: 25%;
-			width: auto;
-			/*background-color: white;*/
-			height: 100%;
-		}
-		.socialWrapper {
-			display: inline-block;
-			border-right: 5px solid /*blue*/#4B4B4B;
-			background-color: #66BEF6;
-			padding: 5px;
-		}
-		.post {
-			padding: 10px;
-		}
-		h1 {
-			text-align: center;
-		}
-		p {
-			margin: 0;
-			padding: 0;
-		}
-	</style>
+	<link id='stylesheet' rel='stylesheet' type="text/css" href='default.css'>
 	<script type="text/javascript">
 		window.mobileCheck = function() {
   			let check = false;
@@ -78,7 +35,8 @@
 	</div>
 	<script type="text/javascript">
 		if(window.mobileCheck()) {
-			window.location.replace("mobile");
+			//window.location.replace("mobile");
+			document.getElementById('stylesheet').setAttribute("href", "mobile.css")
 		}
 	</script>
 </body>
