@@ -6,6 +6,9 @@ body {
 			/*background-color: #FFD430;*/
 			font-family: Arial;
 		}
+a {
+	color: #FE5F55;
+}
 .header {
 			/*background-color: #E8F069;*/
 			background-color: #FFD430;
@@ -13,7 +16,7 @@ body {
 			text-align: center;
 			/*box-shadow: 0px 50px rgba(0, 0, 0, 0.5);*/
 		}
-a {
+.socialButton {
 			text-decoration: none;
 			color: black;
 		}
