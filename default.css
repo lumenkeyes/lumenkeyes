@@ -10,7 +10,9 @@ body {
 	text-align: center;
 	overflow: hidden;
 }
-
+#overflowWrapper {
+	overflow-x: hidden;
+}
 html {
 	overflow: hidden;
 }
