@@ -54,7 +54,7 @@ a {
 	background-image: radial-gradient(#C4C7C0, rgba(196,199,192,0.4));
 	padding: 20px;
 	text-align: center;
-	overflow: hidden;
+	overflow-x: hidden;
 }
 
 .projectlist {
