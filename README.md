@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi! I'm Lumen!
 
-<!--
-**lumenkeyes/lumenkeyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner web developer focusing on beefing up my javascript and backend skills.
 
-Here are some ideas to get you started:
+### Skills:
+- HTML5
+- CSS
+- Vanilla JS
+- NodeJS + Express
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests:
+- Fantasy novels 📚
+- Writing 📝
+- This
+
+Check out a full portfolio on [my website](https:lumenkeyes.com), which you're looking at the code for right now. 😀
