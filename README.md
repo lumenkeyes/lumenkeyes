@@ -12,6 +12,7 @@ I'm a beginner web developer focusing on beefing up my javascript and backend sk
 ### Interests:
 - Fantasy novels 📚
 - Writing 📝
+- Small electronics
 - This
 
 Check out a full portfolio on [my website](https:lumenkeyes.com), which you're looking at the code for right now. 😀
