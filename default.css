@@ -12,6 +12,7 @@ body {
 	overflow-y: visible;
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-image: url('OVERGROWN.avif');
 }
 html {
 	overflow-x: hidden;
