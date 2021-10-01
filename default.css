@@ -12,12 +12,14 @@ body {
 	overflow-y: visible;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-image: url('OVERGROWN.avif');/*, url('OVERGROWN.webp'), url('OVERGROWN.JPG');*/
 }
 html {
 	overflow-x: hidden;
 }
-
+/* * {
+	cursor: url(leaf.png), pointer;
+	pointer-events: none;
+}*/
 a {
 	color: #2708A0;
 }
@@ -55,6 +57,20 @@ h1 {
 ul {
 	padding: 20px;
 	text-align: left;
+}
+form {
+	width: 100%;
+	text-align: center;
+	height: max-content;
+}
+.formtext {
+	display: block;
+	margin: auto;
+	width: 50%;
+	resize: none;
+}
+textarea.formtext {
+	height: 50vh;
 }
 @media only screen and (max-width: 1500px) {
 	#background {
