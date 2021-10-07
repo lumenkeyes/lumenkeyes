@@ -15,4 +15,4 @@ I'm a beginner web developer focusing on beefing up my javascript and backend sk
 - Small electronics
 - This
 
-Check out a full portfolio on [my website](https:lumenkeyes.com), which you're looking at the code for right now. 😀
+Check out a full portfolio on [my website](https:lumenkeyes.com). 😀
