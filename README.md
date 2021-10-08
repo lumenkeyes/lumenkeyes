@@ -6,8 +6,14 @@ I'm a beginner web developer focusing on beefing up my javascript and backend sk
 - HTML5
 - CSS
 - Vanilla JS
-- NodeJS + Express
+  - P5.js
+- NodeJS 
+  - Express
+  - EJS
 - Firebase
+
+### Learning:
+- Bootstrap
 
 ### Interests:
 - Fantasy novels 📚
