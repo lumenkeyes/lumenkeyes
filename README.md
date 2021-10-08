@@ -11,6 +11,9 @@ I'm a beginner web developer focusing on beefing up my javascript and backend sk
   - Express
   - EJS
 - Firebase
+  - Hosting
+  - Real-time database
+  - Auth
 
 ### Learning:
 - Bootstrap
