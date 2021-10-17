@@ -10,6 +10,10 @@
     border-top: 1px solid gray;
     margin: 10px;
 }
+li {
+    margin: 10px;
+    font-size: 1.1em;
+}
 h1 {
     font-size: 3em;
 }
