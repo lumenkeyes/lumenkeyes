@@ -1,6 +1,7 @@
 .centreColumn {
     grid-column-start: 2;
     background-image: radial-gradient(#C4C7C0, rgba(196,199,192,0.4));
+    padding: 10px;
 }
 .evenColumns {
     display: grid;
