@@ -11,7 +11,7 @@
 <body>
     <div class="centreColumn">
         <h1>Cool links, mostly</h1>
-        
+	    <div id="numOut"> </div>
             <a href=".."><h3>Back</h3></a>
             <h2>Webrings and webring-like stuff</h2>
             <p>Mmmmm webrings...</p>
@@ -48,8 +48,26 @@
                     <li><a href="https://tinytools.directory/">Tinytools.directory</a></li>
                 </ul>
             </div>
-        
+	    <h2>Proxies for not-so-privacy-friendly sites</h2>
+	    <div>
+		<ul>
+			<li><a href="https://proxitok.herokuapp.com">Proxitok</a> (tiktok proxy)</li>
+			<li><a href="https://invidious.io">Invidious</a> (youtube proxy), I like using the <a href="https://invidious.fdn.fr">invidious.fdn.fr</a> instance</li>
+			<li><a href="https://github.com/zedeus/nitter">Nitter</a> (twitter proxy, also generates RSS feeds), I usually use the main instance <a href="https://nitter.net">nitter.net</a></li>
+		</ul>
+	    </div>
+	    </h2>
+       	    <h2>Misc.</h2>
+	    <p>Everything else</p>
+	    <div>
+		<ul>
+		   <li><a href="https://suricrasia.online">Suricrasia.online</a>'s <a href="https://suricrasia.online/iceberg/">cursed computer iceberg</a>, especially <a href="https://www.teamten.com/lawrence/writings/coding-machines/">coding machines</a>, which terrified me viscerally and utterly until I realized it was fiction (I went in with zero context).</li>
+		</ul>
+	   </div>
     </div>
-    
+	<script>
+	    	const numOut = document.querySelector("#numOut");
+numOut.innerText = `Your random number is ${Math.floor(Math.random() * 3) + 1}`;
+	</script>
 </body>
 </html>
