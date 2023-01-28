@@ -1,6 +1,6 @@
 .centreColumn {
     grid-column-start: 2;
-    background-image: radial-gradient(#C4C7C0, rgba(196,199,192,0.4));
+    /*background-image: radial-gradient(#C4C7C0, rgba(196,199,192,0.4));*/
     padding: 10px;
 }
 .evenColumns {
@@ -8,7 +8,7 @@
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));           
 }
 .evenColumns > div {
-    border-top: 1px solid gray;
+    /*border-top: 1px solid gray;*/
     margin: 10px;
 }
 li {
@@ -30,8 +30,9 @@ body {
     display: grid; 
     grid-template-columns: 1fr minmax(300px, 50%) 1fr;
     font-family: Arial, Helvetica, sans-serif;
-    background: #C4C7C0 url('OVERGROWN.avif') no-repeat;
-    background-size: cover;
+    background-color: #E1BC29;
+    /*background: #C4C7C0 url('OVERGROWN.avif') no-repeat;
+    background-size: cover;*/
 }
 a {
     color: #2708A0;
