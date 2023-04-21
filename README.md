@@ -5,9 +5,8 @@ I'm a beginner web developer focusing on beefing up my javascript and backend sk
 ### Skills:
 - HTML5
 - CSS
-- Vanilla JS
-  - P5.js
-- NodeJS 
+- JS
+  - Node
   - Express
   - EJS
 - Firebase
