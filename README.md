@@ -1,6 +1,6 @@
 ## Hi! I'm Lumen!
 
-I'm a beginner web developer focusing on beefing up my javascript and backend skills.
+I'm a web developer focused on full-stack apps.
 
 ### Skills:
 - HTML5
@@ -16,11 +16,12 @@ I'm a beginner web developer focusing on beefing up my javascript and backend sk
 
 ### Learning:
 - Bootstrap
-
-### Interests:
-- Fantasy novels 📚
-- Writing 📝
-- Small electronics
-- This
+- React
+- Figma
+- Svelte
+- Databases (SQL and NoSQL)
+- Rust
+- C
+- x86
 
 Check out a full portfolio on [my website](https:lumenkeyes.com). 😀
