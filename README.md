@@ -5,10 +5,12 @@ I'm a web developer focused on full-stack apps.
 ### Skills:
 - HTML5
 - CSS
-- JS
+- <details>
+  <summary>JavaScript</summary>
   - Node
   - Express
   - EJS
+</details>
 - Figma
 - Firebase
   - Hosting
