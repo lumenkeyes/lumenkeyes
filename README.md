@@ -9,6 +9,7 @@ I'm a web developer focused on full-stack apps.
   - Node
   - Express
   - EJS
+- Figma
 - Firebase
   - Hosting
   - Real-time database
@@ -17,7 +18,7 @@ I'm a web developer focused on full-stack apps.
 ### Learning:
 - Bootstrap
 - React
-- Figma
+- Docker
 - Svelte
 - Databases (SQL and NoSQL)
 - Rust
