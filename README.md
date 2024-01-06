@@ -5,7 +5,7 @@ I'm a web developer focused on full-stack apps.
 ### Skills:
 - HTML5
 - CSS
-- <details>
+<details>
   <summary>JavaScript</summary>
   
   - Node
