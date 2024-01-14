@@ -3,30 +3,32 @@
 I'm a web developer focused on full-stack apps.
 
 ### Skills:
-- HTML5
-- CSS
-<details>
-  <summary>JavaScript</summary>
-  
+- **HTML5**
+- **CSS**
+- **JavaScript**
   - Node
   - Express
   - EJS
-</details>
-
-- Figma
-- Firebase
+- **Figma**
+- **Firebase**
   - Hosting
   - Real-time database
   - Auth
 
 ### Learning:
-- Bootstrap
-- React
-- Docker
-- Svelte
-- Databases (SQL and NoSQL)
-- Rust
-- C
-- x86
+- **Bootstrap**
+- **TypeScript**
+- **React**
+  - Create-React-App
+  - Vite
+- **Docker**
+- **Svelte**
+- **Databases** (SQL and NoSQL)
+- **Rust**
+- **C**
+- **x86**
+- **Perl**
+- **Sass**
+- **Tailwind**
 
-Check out a full portfolio on [my website](https:lumenkeyes.com). 😀
+Check out a full portfolio on [my website](https:lumenkeyes.com).
